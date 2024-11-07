@@ -1,0 +1,17 @@
+{
+  "name": "bert-v2-1-ask-a-coding-question-then-edit-responses-w36b",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  }
+}
